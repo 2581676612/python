@@ -1,3 +1,4 @@
+转：
 # Python Study
 > 关于Python工作中的一些总结性技术
 
